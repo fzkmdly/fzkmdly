@@ -3,10 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fzkmdly&label=Profile%20views&color=0e75b6&style=flat" alt="fzkmdly" /> </p>
 
+<p align="left"> <a href="https://twitter.com/saizmazroui04" target="blank"><img src="https://img.shields.io/twitter/follow/saizmazroui04?logo=twitter&style=for-the-badge" alt="saizmazroui04" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/faiz akhmad daulay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faiz akhmad daulay" height="30" width="40" /></a>
-<a href="https://instagram.com/fzkhmdky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fzkhmdky" height="30" width="40" /></a>
+<a href="https://twitter.com/SaizMazroui04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SaizMazroui04" height="30" width="40" /></a>
+<a href="https://fb.com/Faiz Akhmad Daulay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faiz akhmad daulay" height="30" width="40" /></a>
+<a href="https://instagram.com/fzkhmdly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fzkhmdly" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/saizzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saizzzz" height="30" width="40" /></a>
 </p>
 
